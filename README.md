@@ -56,3 +56,20 @@ jekyll -v
 jekyll new my-site
 jekyll new .
 ```
+
+## Запуск локального сервера
+
+```
+bundle exec jekyll serve
+```
+
+## путь
+
+http://localhost:4000/
+
+## Обновить и перезапустить сайт
+
+```
+    bundle update
+    bundle exec jekyll serve
+```
